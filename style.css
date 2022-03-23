@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+canvas{
+    border-radius: 25px;
+    border: 10px dotted skyblue;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
